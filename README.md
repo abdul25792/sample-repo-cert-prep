@@ -7,16 +7,16 @@ This is a sample repo for customer outcomes certification prep presentation
 Introduction to GitHub
 
 ### Domain 4:
-Introduction to Copilot
-Introduction to Codespaces
-Automate development tasks by using GitHub Actions
+Introduction to Copilot<br>
+Introduction to Codespaces<br>
+Automate development tasks by using GitHub Actions<br>
 
 ## Skills Exercises
 
 ### Domain 3:
-GitHub Pages
-Review Pull Requests
+GitHub Pages<br>
+Review Pull Requests<br>
 
 ### Domain 4:
-Hello GitHub Actions
-Code with Codespaces
+Hello GitHub Actions<br>
+Code with Codespaces<br>
