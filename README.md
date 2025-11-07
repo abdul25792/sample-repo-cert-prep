@@ -4,7 +4,7 @@ This is a sample repo for customer outcomes certification prep presentation
 ## MS Learn Modules:
 
 ### Domain 3:
-Introduction to GitHub
+[Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 
 ### Domain 4:
 Introduction to Copilot<br>
